@@ -75,9 +75,9 @@ plt.show()
 ![Alt Text](Skill_demand.png)
 
 <br>
-<img src='3_Project\Images\Skill_demand.png' style="height:200px; width:500px;">
+<img src="https://raw.githubusercontent.com/Abiodun/Python_Data_Project/main/3_Project/Images/Skill_demand.png" width='500' height='200'>
 <br>
-<img src='Skill_demand.png' style="height:200px; width:500px;">
+<img src="https://raw.githubusercontent.com/Abiodun/Python_Data_Project/main/Skill_demand.png" width='500' height='200'>
 <br>
 
 ### Insights
