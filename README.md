@@ -79,6 +79,7 @@ plt.show()
 <br>
 <img src="https://raw.githubusercontent.com/Abiodun/Python_Data_Project/main/Skill_demand.png" width='500' height='200' />
 <br>
+<img src='./Image/Skill_demand.png' width='500' height='200' />
 
 ### Insights
 
