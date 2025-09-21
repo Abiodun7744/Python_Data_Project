@@ -70,9 +70,15 @@ plt.show()
 ```
 ### Results 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/3_Project\Images\Skill_demand.png?raw=true)
+![Alt Text](3_Project\Images\Skill_Demand_all_data_roles.png) 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Skill_demand.png?raw=true)
+![Alt Text](Skill_demand.png)
+
+<br>
+<img src='3_Project\Images\Skill_demand.png'>
+<br>
+<img src='Skill_demand.png'>
+<br>
 
 ### Insights
 
