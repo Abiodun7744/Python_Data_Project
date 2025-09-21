@@ -75,9 +75,9 @@ plt.show()
 ![Alt Text](Skill_demand.png)
 
 <br>
-<img src='3_Project\Images\Skill_demand.png'>
+<img src='3_Project\Images\Skill_demand.png' style="height:200px; width:500px;">
 <br>
-<img src='Skill_demand.png'>
+<img src='Skill_demand.png' style="height:200px; width:500px;">
 <br>
 
 ### Insights
