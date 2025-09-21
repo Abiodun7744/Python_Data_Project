@@ -70,7 +70,7 @@ plt.show()
 ```
 ### Results 
 
-![Visualization of Top Skills for Data Nerds](3_Project/Images/Skill_demand.png)
+![Alt Text](3_Project\Images\Skill_Demand_all_data_roles.png)
 
 ### Insights
 
