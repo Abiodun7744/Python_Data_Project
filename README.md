@@ -70,14 +70,11 @@ plt.show()
 ```
 ### Results 
 
-![Alt Text](3_Project\Images\Skill_Demand_all_data_roles.png) 
+![Alt Text](3_Project/Images/Skill_Demand_all_data_roles.png) 
 
 ![Alt Text](Skill_demand.png)
 
-<br>
-<img src="https://raw.githubusercontent.com/Abiodun/Python_Data_Project/main/3_Project/Images/Skill_demand.png" width='500' height='200' />
-<br>
-<img src="https://raw.githubusercontent.com/Abiodun/Python_Data_Project/main/Skill_demand.png" width='500' height='200' />
+
 <br>
 <img src='./Image/Skill_demand.png' width='500' height='200' />
 
