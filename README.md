@@ -70,13 +70,9 @@ plt.show()
 ```
 ### Results 
 
-![Alt Text](3_Project/Images/Skill_Demand_all_data_roles.png) 
+![Trending Top Skills Demand for Data Analysts in the US](3_Project/Images/Skill_Demand_all_data_roles.png) 
 
-![Alt Text](Skill_demand.png)
-
-
-<br>
-<img src='./Image/Skill_demand.png' width='500' height='200' />
+*Bar graph visualizing the trending top skills demand for data analysts in the US in 2023.*
 
 ### Insights
 
